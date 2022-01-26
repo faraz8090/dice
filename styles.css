@@ -1,0 +1,17 @@
+.main-body {
+  text-align: center;
+}
+
+#game-title {
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+.btn {
+margin-bottom: 5%;
+}
+
+.dice-image {
+  width: 200px;
+  height: 200px;
+}
